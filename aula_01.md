@@ -4,6 +4,8 @@
 <br><br>
 Em programação, objetivos são utilizados no sistema de herança, como feito em um grid ou classe em CSS. Também é utilizada a sobrescrita, para objetos. Por exemplo, um objeto chamado de <b>"Animal"</b> pode ter características gerais, como ser um animal, emitir som, ter pelo, etc. Por isso, existe a sobrescrita, que é responsável por objetos específicos.
 <br><br>
-<b style="color: white">O projeto final devera ter, login, cadastro, alteração e interface gráfica em JAVA☕.<b></p>
+<b style="color: white">O projeto final devera ter, login, cadastro, alteração e interface gráfica em JAVA☕.</b>
+<br><br>
+Temos 4 atividades, as duas primeiras é pratica, a terceira no papel e a quarta ??</p>
 
 ---
