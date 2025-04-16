@@ -13,7 +13,7 @@ public class CalcCientifica extends Calc {
         super.operacao(operador);
         System.out.println(numOne);
         switch (operador) {
-            case 'a':
+            case '#':
                 return Math.sqrt(numOne);
             default:
                 return 10;

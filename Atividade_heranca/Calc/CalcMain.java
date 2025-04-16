@@ -14,17 +14,16 @@ public class CalcMain {
         System.out.println("[#] RAIZ QUADRADA");
         char op = scn.next().charAt(0);
 
-        if (op != 'a'){
+        if (op != '#'){
             double n1 = scn.nextDouble();
             double n2 = scn.nextDouble();
             Calc c = new Calc(n1, n2, op);
             System.out.println(c.operacao(op));
         }else {
             double n1 = scn.nextDouble();
-            Calc c = new Calc(n1, op);
+            CalcCientifica c = new CalcCientifica(n1, op);
             System.out.println(c.operacao(op));
         }
-
 
         System.out.println();
     }
